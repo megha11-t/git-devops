@@ -3,3 +3,6 @@ git status
 git clone
 git add
 git remote -v
+git pull
+git fetch
+git push
