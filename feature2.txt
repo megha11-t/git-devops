@@ -1,2 +1,5 @@
 
 feature2 added
+
+
+checking stash logic
